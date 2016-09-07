@@ -1,8 +1,8 @@
 ### Overview
-https://gitlab.com/0byte.io/0byte-review2/wikis/home
+https://github.com/boy0001/ByteReview/wiki
 
 ### Commands (outdated)
-https://gitlab.com/0byte.io/0byte-review2/wikis/Commands
+https://github.com/boy0001/ByteReview/wiki/Commands
 
 ### Placeholders
-https://gitlab.com/0byte.io/0byte-review2/wikis/placeholders
+https://github.com/boy0001/ByteReview/wiki/placeholders
