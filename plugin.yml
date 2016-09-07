@@ -1,0 +1,6 @@
+name: ByteReview
+main: com.boydti.review.ByteReview
+version: 3.3.2
+description: Plot review system
+authors: [Empire92]
+depend: [PlotSquared]
